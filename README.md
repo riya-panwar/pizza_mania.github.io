@@ -4,8 +4,8 @@ A basic web application built using HTML,CSS (for Front-end),PHP (for Back-end) 
 
 *CUSTOMER VIEW:*
 
-login to the website
-logout to the website
+login to the website,
+logout to the website,
 mail your queries/ feedback
 
 
