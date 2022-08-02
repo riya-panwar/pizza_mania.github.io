@@ -12,3 +12,7 @@ mail your queries/ feedback
 *RESTAURANT MANAGER VIEW:*
 
 The manager is able to view all the email ids and their state in tabular form.
+
+MY WEBSITE LINK : 
+
+http://pizzerism.epizy.com
